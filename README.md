@@ -2,6 +2,20 @@
 Solutions for [SQL 50 Study Plan](https://leetcode.com/studyplan/top-sql-50/) on LeetCode
 
 ---
+Email ID :
+0112cs211041@gmail.com
+StudentId:
+CT_CSI_SQ_897
+Start Date:
+21/5/2024
+Domain:
+SQL
+Stream:
+B.tech
+Current semester:
+6th sem
+College name:
+Bansal Institute Of Science & Technology
 
 [1757 - Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 ```sql
